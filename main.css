@@ -157,6 +157,13 @@ html{
     font-size: 1.3rem;
     padding: 10px 3px;
 }
+.explore:hover{
+background-color:green;
+}
+.resume:hover{
+background-color:green;
+}
+
 
 @media screen and (max-width: 768px) {
     html{
